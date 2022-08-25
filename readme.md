@@ -11,6 +11,11 @@ Dan tibalah kalian sekarang pada repositori proses belajar saya di online course
 **Online Course :**
 [Pemrograman Go-Lang : Pemula sampai Mahir](https://www.udemy.com/course/pemrograman-go-lang-pemula-sampai-mahir/)
 
+## For Your Information
+
+ - Saya menggunakan Go-Lang versi `1.19`
+ - Cara install golang bisa dilihat di website resminya [disini](https://go.dev/doc/install)
+
 ## Daftar Isi
 
  - [Bagian 1: Go-Lang Dasar](https://github.com/ifanfairuz/golang-course/tree/main/Bagian%201:%20Go-Lang%20Dasar)
