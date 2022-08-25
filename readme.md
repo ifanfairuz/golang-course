@@ -1,4 +1,4 @@
-# Belajar Pemograman Go-Lang
+# Belajar Bahasa Pemograman Go-Lang
 
 Halo nama saya Ifan Fairuz, saya adalah freelance Web Full-Stack Developer sejak 2018, yang tidak jarang jadi super human, curhat nih... wkwkw.
 
