@@ -10,3 +10,17 @@ Dan tibalah kalian sekarang pada repositori proses belajar saya di online course
 
 **Online Course :**
 [Pemrograman Go-Lang : Pemula sampai Mahir](https://www.udemy.com/course/pemrograman-go-lang-pemula-sampai-mahir/)
+
+## Daftar Isi
+
+ - [Bagian 1: Go-Lang Dasar](https://github.com/ifanfairuz/golang-course/tree/main/Bagian%201:%20Go-Lang%20Dasar)
+	 1. [Hello World](https://github.com/ifanfairuz/golang-course/tree/main/Bagian%201:%20Go-Lang%20Dasar/1_helloworld)
+	 2. [Tipe Data - Number](https://github.com/ifanfairuz/golang-course/tree/main/Bagian%201:%20Go-Lang%20Dasar/2_typedata_number)
+	 3. [Tipe Data - Boolean](https://github.com/ifanfairuz/golang-course/tree/main/Bagian%201:%20Go-Lang%20Dasar/3_typedata_boolean)
+	 4. [Tipe Data - String](https://github.com/ifanfairuz/golang-course/tree/main/Bagian%201:%20Go-Lang%20Dasar/4_typedata_string)
+	 5. [Variable](https://github.com/ifanfairuz/golang-course/tree/main/Bagian%201:%20Go-Lang%20Dasar/5_variable)
+	 6. [Constant](https://github.com/ifanfairuz/golang-course/tree/main/Bagian%201:%20Go-Lang%20Dasar/6_constant)
+	 7. [Conversion](https://github.com/ifanfairuz/golang-course/tree/main/Bagian%201:%20Go-Lang%20Dasar/7_conversion)
+	 8. [Tipe Data Decoration](https://github.com/ifanfairuz/golang-course/tree/main/Bagian%201:%20Go-Lang%20Dasar/8_typedata_decoration)
+	 9. [Operasi Matematika](https://github.com/ifanfairuz/golang-course/tree/main/Bagian%201:%20Go-Lang%20Dasar/9_math_operation)
+	 10. [Operasi Perbandingan](https://github.com/ifanfairuz/golang-course/tree/main/Bagian%201:%20Go-Lang%20Dasar/10_comparation_operation)
